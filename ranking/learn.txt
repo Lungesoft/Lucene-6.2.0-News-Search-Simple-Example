@@ -1,0 +1,27 @@
+2.0 : 2.0 : 11.0 : 36.794395446777344 : 4.0 : iphone 7 : /data/neofitsialne_tsen_na_iphone_7_i_7_plus_v_rossii__nastojaschee_bezumie___hi_tech_mail_ru.json
+1.0 : 4.0 : 30.0 : 16.746318817138672 : 5.0 : iphone 7 : /data/obzor_obzorov_iphone_7__mnenija_ekspertov___hi_tech_mail_ru.json
+2.0 : 2.0 : 3.0 : 16.624042510986328 : 2.0 : iphone 7 : /data/v_iphone_7_i_7_plus_obnaruzhena_novaja_problema___hi_tech_mail_ru.json
+2.0 : 3.0 : 8.0 : 16.279678344726562 : 3.0 : iphone 7 : /data/test_na_skorost__iphone_7_protiv_galaxy_note_7___hi_tech_mail_ru.json
+1.0 : 2.0 : 2.0 : 16.13784408569336 : 1.0 : iphone 7 : /data/iphone_7_ne_gotov_k_russkoi_zime___hi_tech_mail_ru.json
+1.0 : 2.0 : 4.0 : 16.13784408569336 : 2.0 : iphone 7 : /data/iphone_7__sami_provalni_start_prodazh___hi_tech_mail_ru.json
+2.0 : 2.0 : 4.0 : 16.003597259521484 : 2.0 : iphone 7 : /data/v_rossii_zaderzhali_pervuju_partiju_kontrabandnh_iphone_7_i_7_plus___hi_tech_mail_ru.json
+2.0 : 2.0 : 30.0 : 15.95594596862793 : 5.0 : iphone 7 : /data/ofitsialno__predstavlen_apple_iphone_7_i_7_plus___hi_tech_mail_ru.json
+2.0 : 2.0 : 13.0 : 15.794108390808105 : 5.0 : iphone 7 : /data/bitva_kamer__iphone_7_plus_vs__samsung_galaxy_note_7___hi_tech_mail_ru.json
+2.0 : 2.0 : 4.0 : 15.794108390808105 : 2.0 : iphone 7 : /data/startoval_predzakaz_iphone_7_i_7_plus_v_rossii___hi_tech_mail_ru.json
+1.0 : 2.0 : 2.0 : 15.79224967956543 : 1.0 : iphone 7 : /data/nazvana_realnaja_stoimost_iphone_7___hi_tech_mail_ru.json
+1.0 : 1.0 : 0.0 : 15.735607147216797 : 0.0 : iphone 7 : /data/uhod_za_volosami__7_veschei__kotore_v_delali_nepravilno___krasota___ledi_mail_ru.json
+2.0 : 4.0 : 10.0 : 15.512836456298828 : 4.0 : iphone 7 : /data/prodazhi_iphone_7_i_7_plus_okazalis_nizhe__chem_ozhidalos___hi_tech_mail_ru.json
+1.0 : 1.0 : 7.0 : 15.303110122680664 : 2.0 : iphone 7 : /data/ukraints_mogut_poluchit_iphone_7_prakticheski_besplatno___hi_tech_mail_ru.json
+1.0 : 2.0 : 6.0 : 15.02663803100586 : 2.0 : iphone 7 : /data/11_smartfonov__kotore_operedili_iphone_7_plus___hi_tech_mail_ru.json
+1.0 : 1.0 : 4.0 : 14.84949016571045 : 1.0 : iphone 7 : /data/iphone_7_plus_vperve_razobrali_professional___hi_tech_mail_ru.json
+1.0 : 1.0 : 13.0 : 14.800376892089844 : 4.0 : iphone 7 : /data/budte_ostorozhn__problem_novogo_iphone_7___hi_tech_mail_ru.json
+1.0 : 1.0 : 5.0 : 14.755802154541016 : 2.0 : iphone 7 : /data/iphone_7_plus_polnostju_rasprodan___hi_tech_mail_ru.json
+2.0 : 2.0 : 11.0 : 14.622716903686523 : 4.0 : iphone 7 : /data/7_kruth_konkurentov_iphone_7__kotore_mozhno_kupit_deshevle___hi_tech_mail_ru.json
+2.0 : 2.0 : 8.0 : 14.446432113647461 : 3.0 : iphone 7 : /data/iphone_7__7_plus__apple_watch_2_i_airpods_v_rossii__tsen_i_dat_starta_prodazh___hi_tech_mail_ru.json
+0.0 : 1.0 : 1.0 : 16.110286712646484 : 1.0 : Проект : /data/ukraina_rassmatrivaet_vozmozhnost_sozdanija_natsionalnoi_operatsionnoi_sistem___hi_tech_mail_ru.json
+1.0 : 1.0 : 4.0 : 15.839256286621094 : 5.0 : Проект : /data/putin__internet___eto_proekt_tsru___hi_tech_mail_ru.json
+1.0 : 2.0 : 0.0 : 15.476009368896484 : 2.0 : Проект : /data/putin_podaril_lideru_kitaja_yotaphone_2___hi_tech_mail_ru.json
+1.0 : 1.0 : 4.0 : 15.19106674194336 : 5.0 : Проект : /data/putin_ne_polzuetsja_mobilnikom_i_sots__setjami___hi_tech_mail_ru.json
+1.0 : 1.0 : 4.0 : 15.19106674194336 : 5.0 : Проект : /data/putin_raskritikoval_kachestvo_stroitelstva_rossiiskih_dorog.json
+1.0 : 1.0 : 2.0 : 13.024982452392578 : 3.0 : Проект : /data/mat_pichugina_obratilas_k_putinu_s_prosboi_o_pomilovanii_sna___novosti_politiki___novosti_mail_ru.json
+0.0 : 1.0 : 1.0 : 12.796231269836426 : 1.0 : Проект : /data/chislo_neobhodimh_soglasovanii_v_stroitelstve_sokratjat_vtroe.json
